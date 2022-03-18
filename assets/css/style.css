@@ -50,6 +50,7 @@ nav ul li {
     margin-left: 25px;
 }
 
+/*hero section begins*/
 .hero {
     height: 800px;
     width: 100%;
@@ -58,12 +59,15 @@ nav ul li {
     background-size: cover;
     background-position: center;
 }
+/*hero section ends*/
 
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
+
+/*search-engine begins*/
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -79,7 +83,9 @@ nav ul li {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/*search-engine ends*/
 
+/*online-reputation begins*/
 .online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
@@ -102,7 +108,9 @@ nav ul li {
     float: right;
     margin-left: 25px;
 }
+/*online-reputation ends*/
 
+/*social-media begins*/
 .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -123,7 +131,9 @@ nav ul li {
     float: left;
     margin-right: 25px;
 }
+/*social-media ends*/
 
+/*benefits section begins*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -135,6 +145,7 @@ nav ul li {
     background-color: #2589bd;
 }
 
+/*benefit-lead begins*/
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
@@ -150,7 +161,9 @@ nav ul li {
     margin: 10px auto;
     max-width: 150px;
 }
+/*benefit-lead ends*/
 
+/*benefit-brand begins*/
 .benefit-brand {
     margin-bottom: 32px;
     color: #ffffff;
@@ -166,7 +179,9 @@ nav ul li {
     margin: 10px auto;
     max-width: 150px;
 }
+/*benfit-brand ends*/
 
+/*benefit-cost begins*/
 .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
@@ -182,7 +197,9 @@ nav ul li {
     margin: 10px auto;
     max-width: 150px;
 }
+/*benefit-cost ends*/
 
+/*footer begins*/
 footer {
     padding: 30px;
     clear: both;
@@ -193,3 +210,4 @@ footer {
 footer h2 {
     font-size: 20px;
 }
+/*footer ends*/
