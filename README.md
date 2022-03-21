@@ -8,7 +8,7 @@ A website that is accessible to all.
 * CSS
 
 #Website
-https://lernantino.github.io/challenge1/
+https://github.com/jazellepearce/challenge1/tree/main
 
 #Contribution
 Jazelle Pearce
